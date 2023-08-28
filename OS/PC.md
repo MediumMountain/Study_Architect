@@ -129,3 +129,8 @@
     https://arteceed.info/
 
 
+
+## REFERENCE
+
+シェルってなにしてるの
+https://zenn.dev/fdnsy/articles/bc1aab0d8b35e4
