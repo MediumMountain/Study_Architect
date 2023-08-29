@@ -304,7 +304,7 @@
 - 上位のデータから順に並べる方式をビッグエンディアン、下位からをリトルエンディアンという。
 
 
-![エンディアン](PICTURE/Processor/Endian.PNG "Endian")
+![エンディアン](../../PICTURE/Processor/Endian.PNG "Endian")
 
 
 ## 高速化
