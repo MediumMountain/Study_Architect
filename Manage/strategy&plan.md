@@ -329,3 +329,12 @@ https://www.ashita-team.com/jinji-online/labor/9818
 
 ## eシール
 - 電子文書の発信元の組織を示す目的で行われる暗号化等の措置 （技術的には電子署名と同じ仕組み）。 個人名の電子署名とは異なり、使用する個人の本人確認が不要であり、領収書や請求書等の経理関係書類等の ような迅速かつ大量に処理するような場面において、簡便にデータの発行元を保証することが可能。
+
+
+
+## リーンスタートアップ
+- 実用最小限の製品・サービスを短期間で作り，構築・計測・学習というフィードバックループで改良や方向転換をして，継続的にイノベーションを行う手法
+- 起業プロセスにかかわる無駄をなくし、科学的にマネジメントを行うことで、起業・新事業・新製品開発で陥りやすい失敗を少なくする
+
+![リーンスタートアップ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/lean_startup_1.png)
+![リーンスタートアップ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/lean_startup_2.png)

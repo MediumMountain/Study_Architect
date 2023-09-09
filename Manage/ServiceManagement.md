@@ -35,3 +35,10 @@ SLAのはじまりは、ネットワークが普及し始めた時代に遡り�
 現在は通信サービスに限らず、データセンターやシステムの運用・保守サービスなど、幅広い分野でSLAが規定され、利用されています。
 
 https://pfs.nifcloud.com/navi/beginner/sla.htm
+
+
+
+### インシデント対応
+
+![インシデント対応](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/incident_1.png)
+![インシデント対応](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/incident_2.png)
