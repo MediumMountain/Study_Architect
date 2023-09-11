@@ -65,6 +65,11 @@
 
 
 
+![SFA](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/SFA_1.png)
+![SFA](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/SFA_2.png)
+
+
+
 ## マーケティング
 ### バイラルマーケティング
 - 人から人へ，プラスの評価が口コミで爆発的に広まりやすいインターネットの特長を生かす手法

@@ -9,3 +9,11 @@
 統計的予測理論の説明です。
 複数の専門家へのアンケートの繰返しによる回答の収束によって将来を予測する。
 正しい。デルファイ法の説明です。
+
+
+## マクシミン原理(maximin principle)
+- 各戦略を選択したときに得られる最小利得が最も大きくなる戦略を選ぶという保守的な考え方
+
+
+![マクシミン原理](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/maximin_principle_1.png)
+![マクシミン原理](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/maximin_principle_2.png)
