@@ -35,6 +35,15 @@
 
 ![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_0.png)
 
+
+
+### ワークパッケージ
+- WBSをブレークダウンした最下位レベルの成果物を生み出す作業項目をワークパッケージと呼び、ワークパッケージを完了するために必要な作業のことをアクティビティと呼ぶ
+- 基準となっている成果物を生成するための具体的な作業単位に分割したもの
+
+![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_1.png)
+
+
 - Work(作業) Breakdown(分解) Structure(構成) から作業分解構成図とも呼ばれる。
 - プロジェクトの作業を階層的に表現した管理手法・ツールのひとつ。
 
@@ -50,8 +59,9 @@ https://el.jibun.atmarkit.co.jp/101sini/2015/01/wbs------264d.html
 https://goworkship.com/magazine/pm-wbs-ng/  
 
 
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_1.png)
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_2.png)
+![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_1.png)
+![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_2.png)
+
 
 
 ## プロジェク卜・スコープ・マネジメント
@@ -306,6 +316,20 @@ https://goworkship.com/magazine/pm-wbs-ng/
 - 現時点までに完了した作業に対して実際に投入した総コスト
 各指標を比較して、EV－ACがマイナス値であれば完了済み作業に対する予算よりも投入コストが多いのでコスト超過、EV－PVがマイナス値であれば完了済み作業に対する予算が当初の予算よりも少ないので進捗遅れ、と判断することができます。
 
+
+### CV(コスト差異)
+- EV-AC
+- マイナス値の場合、完了済み作業に対する予算よりも投入コストが多いのでコスト超過
+
+### SV(スケジュール差異)
+- EV-PV
+- マイナス値の場合、完了済み作業に対する予算が当初の予算よりも少ないので進捗遅れ
+
+![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_3.png)
+![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_4.png)
+
+![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_5.png)
+![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_6.png)
 
 
 ### 完成時総コスト見積り(EAC:Estimate At Completion)
