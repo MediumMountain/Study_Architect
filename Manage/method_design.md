@@ -33,3 +33,26 @@
 ||共存性
 ||置換性
 ||移植性標準適合性	|
+
+
+
+
+
+![Software maintainability](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_1.png)
+![Software maintainability](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_2.png)
+
+
+
+![分析の図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_1.png)
+![分析の図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_2.png)
+
+
+
+# プロジェクト品質マネジメント
+- PMBOKでは、プロジェクト品質マネジメントを「品質計画」「品質保証」「品質管理」の3つのプロセスで行うとしています。
+    - 品質計画
+        - プロジェクトの品質を保証し改善していくための組織構造、責任、手順、プロセスなどを定義するプロセス。
+    - 品質保証
+        - 品質マネジメント活動全般に対して品質監査を行い、継続的にプロセスの見直し・改善を行うプロセス。
+    - 品質管理
+        - プロジェクトが品質計画に基づき実行されているか記録し、その記録をもとに基準を満たさない結果の原因を除去するなど、適切に管理を行うプロセス。
