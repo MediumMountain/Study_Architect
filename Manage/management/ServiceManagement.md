@@ -197,6 +197,19 @@ https://www.kaonavi.jp/dictionary/kpi/
 
 
 
+1. KGIの設定
+1. CSFの抽出
+1. KPIの設定
+
+
+
+
+
+## 目標による管理（MBO：Management by Objectives）
+- 個々のグル―プや担当者に自らの業務目標を設定、申告させ、その進捗や実行を各人が自ら主体的に管理する手法
+
+
+
 # ITIL(Information Technology Infrastructure Library)
 - ITIL(Information Technology Infrastructure Library)は、ITサービスマネジメントにおけるベストプラクティス（成功事例）をまとめた書籍群です。
 - ITIL v2では主にITサービス運営における日々の運用の手法について記したサービスサポート(通称:青本)・主に中長期的なITサービスの計画と改善手法について記したサービスデリバリ(通称:赤本)等から構成されています
