@@ -33,7 +33,7 @@
     - タイムマネジメントのアクティビティ定義のプロセスにおいて、ワークパッケージは1つ以上のアクティビティ(ワークパッケージを生むための個々の作業)に分解されます。
         - PMBOK第5版によれば、ワークパッケージは、タイムマネジメントの「アクティビティ定義」にて1つ以上のアクティビティに分解されます。
 
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_0.png)
+![WBS](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/WBS_0.png)
 
 
 
@@ -41,7 +41,7 @@
 - WBSをブレークダウンした最下位レベルの成果物を生み出す作業項目をワークパッケージと呼び、ワークパッケージを完了するために必要な作業のことをアクティビティと呼ぶ
 - 基準となっている成果物を生成するための具体的な作業単位に分割したもの
 
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_1.png)
+![WBS](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/WBS_1.png)
 
 
 - Work(作業) Breakdown(分解) Structure(構成) から作業分解構成図とも呼ばれる。
@@ -59,8 +59,8 @@ https://el.jibun.atmarkit.co.jp/101sini/2015/01/wbs------264d.html
 https://goworkship.com/magazine/pm-wbs-ng/  
 
 
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_1.png)
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_2.png)
+![WBS](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_1.png)
+![WBS](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_Activity_2.png)
 
 
 
@@ -73,8 +73,8 @@ https://goworkship.com/magazine/pm-wbs-ng/
 1. スコープコントロール
 1. スコープ妥当性確認
 
-![プロジェク卜・スコープ・マネジメント](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Project_scope_management_1.png)
-![プロジェク卜・スコープ・マネジメント](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Project_scope_management_2.png)
+![プロジェク卜・スコープ・マネジメント](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Project_scope_management_1.png)
+![プロジェク卜・スコープ・マネジメント](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Project_scope_management_2.png)
 
 
 
@@ -127,8 +127,8 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 ### ポートフォリオマネジメント
 - 組織が抱えている多数のプロジェクトを区分し、資源配分の最適化を目指す活動です。
 
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Configuration_management_1.png)
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_Configuration_management_2.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_Configuration_management_1.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_Configuration_management_2.png)
 
 
 ## PMP資格
@@ -168,9 +168,9 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 - プロジェクトフェーズ又はプロジェクトが完了したことを正式に確定するために使用し，必要に応じて考慮し，実行するように得た教訓を提供するために使用する。
 
 
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_1.png)
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_2.png)
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_3.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_1.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_2.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500_3.png)
 
 
 
@@ -198,9 +198,9 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 ### プロジェクト・マネジャー
 プロジェクトの要求事項を満たすために，知識，スキル，ツールと技法をプロジェクトのアクティビティへ適用する。
 
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_1.png)
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_2.png)
-![JIS Q 21500](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_3.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_1.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_2.png)
+![JIS Q 21500](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JIS_Q_21500(Project_management_guide)_3.png)
 
 
 
@@ -213,9 +213,9 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 ## LOC(Lines Of Code)法
 
 
-![step](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/step_1.png)
-![step](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/step_2.png)
-![step](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/step_3.png)
+![step](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/step_1.png)
+![step](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/step_2.png)
+![step](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/step_3.png)
 
 
 
@@ -263,7 +263,7 @@ https://mfg.isid.co.jp/blog/detail/001681.php
     - プロジェクトのクリティカルパスを守るために、クリティカルチェーンの最後に配置されるものを「プロジェクトバッファ」、クリティカルパス上にない作業の遅れが、クリティカルパス上のタスクに影響を与えることを防ぐために作業の合流地点に配置されるものを「合流バッファ」といいます。
 
 
-![クリティカルチェーン法](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/critical_chain.png)
+![クリティカルチェーン法](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/critical_chain.png)
 
 
 
@@ -287,8 +287,8 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 
 
 
-![RACI](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/RACI_1.png)
-![RACI](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/RACI_2.png)
+![RACI](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/RACI_1.png)
+![RACI](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/RACI_2.png)
 
 
 
@@ -298,7 +298,7 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 - コストとスケジュールの2つを定量的に管理する進捗管理手法
 - PV、EV、ACという3つの指標を用いることが特徴
 
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_0.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_0.png)
 
 - EVMには完成時総コスト見積り(EAC)を求める公式があるため、厳密にはこれに従って計算する
 
@@ -329,11 +329,11 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 - EV-PV
 - マイナス値の場合、完了済み作業に対する予算が当初の予算よりも少ないので進捗遅れ
 
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_3.png)
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_4.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_3.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_4.png)
 
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_5.png)
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_6.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_5.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_6.png)
 
 
 ### 完成時総コスト見積り(EAC:Estimate At Completion)
@@ -343,8 +343,8 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 
 
 
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_1.png)
-![EVM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/EVM_2.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_1.png)
+![EVM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/EVM_2.png)
 
 
 
@@ -372,18 +372,18 @@ https://mfg.isid.co.jp/blog/detail/001681.php
 
 # 進捗管理表
 
-![トレンドチャート](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/trend_chart_1.png)
-![トレンドチャート](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/trend_chart_2.png)
+![トレンドチャート](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/trend_chart_1.png)
+![トレンドチャート](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/trend_chart_2.png)
 
 WBSはタスクを細分化したリスト、ガントチャートはそれに基づいて作られる横向きの棒グラフを指します。 
 ガントチャートを作成するためには、WBSによって作業項目を洗い出さなければなりません。 
 そして、その細分化されたタスクを元にガントチャートでグラフ化していきます。
 
 
-![責任分担表](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Responsibility_table.png)
-![WBS](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/WBS_.png)
-![ガント](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Gantt_chart_1.png)
-![ガント](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Gantt_chart_2.png)
+![責任分担表](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Responsibility_table.png)
+![WBS](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/WBS_.png)
+![ガント](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Gantt_chart_1.png)
+![ガント](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Gantt_chart_2.png)
 
 
 
@@ -436,7 +436,7 @@ WBSはタスクを細分化したリスト、ガントチャートはそれに�
     - 分析ツールとして、感度分析、トルネード図、期待金額価値分析、モンテカルロ法などが用いられます。
 - これに対して定性的評価はランク付けやレベルなどの金額以外で表す手法になります。
 
-![lisk](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk.png)
+![lisk](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk.png)
 
 - プロジェクトにプラスの影響を与えるリスク(好機)への対応戦略には「活用」「共有」「強化」「受容」の4種類があります。PMBOKの定義は長いので要点だけを記載します。
     - 活用
@@ -449,8 +449,8 @@ WBSはタスクを細分化したリスト、ガントチャートはそれに�
         - 積極的な利用はしないが、好機が現実化したときにはその利益を享受しようとする戦略
 
 
-![lisk](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk_1.png)
-![lisk](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk_2.png)
+![lisk](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk_1.png)
+![lisk](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PMBOK_lisk_2.png)
 
 
 - プロジェクトにマイナスの影響を与えるリスク(脅威)への対応戦略には「回避」「転嫁」「軽減」「受容」の4種類があります。
@@ -463,17 +463,6 @@ WBSはタスクを細分化したリスト、ガントチャートはそれに�
     - 受容(保有)
         - リスクが現実化した時の影響が許容可能範囲内である場合やリスクの除去が困難であるときに、特に対策をせずにそのままにしておく戦略。
         - 対策費用が予想される損失金額を上回っているときなどに採られる。
-
-
-## デルファイ法
-- 技術革新や社会変動などに関する未来予測においてよく用いられ、多数の専門家が他の専門家の意見も相互に参照しながら意見交換をし、最終的に意見の収束をしていく手法
-    - 複数の専門家から得られた見解を要約して再配布し，再度見解を求めることを何度か繰り返して収束させる
-
-- デルファイ法は次の手順に従って行われます。
-    1. 複数の専門家を回答者として選定する。
-    1. 質問に対する回答結果をフィードバックし，再度質問を行う。
-    1. 回答結果を統計的に処理し，確率分布とともに回答結果を示す。
-
 
 
 
