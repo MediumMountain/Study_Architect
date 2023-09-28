@@ -71,6 +71,6 @@
 - 仮想記憶は主記憶のバックアップではない。
 
 
-![仮想記憶](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/virtual_memory_1.png)
-![仮想記憶](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/virtual_memory_2.png)
-![仮想記憶](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/virtual_memory_3.png)
+![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_1.png)
+![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_2.png)
+![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_3.png)

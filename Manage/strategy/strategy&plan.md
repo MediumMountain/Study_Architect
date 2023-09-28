@@ -139,7 +139,7 @@ IT投資評価における各フェーズでの実施内容は以下の通りで
 - 大企業や政府機関などといった巨大な組織(enterprise)の業務手順・情報システムの標準化、および組織の最適化を進めるための方法論として活用されます。
 
 
-    ![エンタープライズアーキテクチャ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/EA.png)  
+    ![エンタープライズアーキテクチャ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/EA.png)  
 
 
 EAを構成する4つの体系は次の通りです。
@@ -218,8 +218,8 @@ EAを構成する4つの体系は次の通りです。
 - SOAを実現する手段として、WebサービスやESB(Enterprise service bus)、CORBAを用いた分散オブジェクトシステムなどが使われます。
 
 
-![SOA](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/SOA_1.png)  
-![SOA](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/SOA_2.png)  
+![SOA](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/SOA_1.png)  
+![SOA](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/SOA_2.png)  
 
 
 ## フィット＆ギャップ分析
@@ -382,6 +382,13 @@ EAを構成する4つの体系は次の通りです。
 
 
 
+PDPC法
+PDPC(Process Decision Program Chart)は、ある計画における目的達成のためにあらゆる事態を事前に想定し、計画の開始から最終結果に至る過程や手順を時間の推移に従って矢印で結合した図です。望ましい結果を得るための最適ルートを分析するために役立ちます。
+クラスタ分析法
+クラスタ分析法は、複数の変数(項目、属性、次元数)を持つデータ(多変量データ)を利用し、その変数間の相互の関係性をとらえるために使われる多変量解析の手法です。複数の異なる性質のものが混ざり合っている対象の中から、類似したものを集めてグルーピングするために使われます
+
+
+
 
 ## グリーン購入
 - 環境負荷の少ない製品、環境保護に取組む企業から優先的に購入する調達方針です。
@@ -421,7 +428,7 @@ EAを構成する4つの体系は次の通りです。
 
 
 
-![企画プロセス](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/planning_process.png)
+![企画プロセス](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/planning_process.png)
 
 
 
@@ -615,8 +622,8 @@ https://www.ashita-team.com/jinji-online/labor/9818
 ## 情報システム・モデル取引・契約書
 ユーザとベンダのあるべき理想的なモデルを提示し、情報システムのライフサイクルプロセスの中で、ユーザとベンダの間でどのようなことを決定し、どのようなことを情報共有すればよいかについての指針となることを目指して策定されたガイドライン
 
-![情報システム・モデル取引・契約書](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/Contract_type_1.png)
-![情報システム・モデル取引・契約書](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/Contract_type.png)
+![情報システム・モデル取引・契約書](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/Contract_type_1.png)
+![情報システム・モデル取引・契約書](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/Contract_type.png)
 
 上記のうち「請負型」の契約が適切とされているフェーズは、システム方式設計(システム内部設計)～システム結合です。したがって「エ」が適切です。
 
@@ -726,8 +733,8 @@ https://www.ipa.go.jp/digital/model/model20201222.html
 - 実用最小限の製品・サービスを短期間で作り，構築・計測・学習というフィードバックループで改良や方向転換をして，継続的にイノベーションを行う手法
 - 起業プロセスにかかわる無駄をなくし、科学的にマネジメントを行うことで、起業・新事業・新製品開発で陥りやすい失敗を少なくする
 
-![リーンスタートアップ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/lean_startup_1.png)  
-![リーンスタートアップ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Strategy/lean_startup_2.png)  
+![リーンスタートアップ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/lean_startup_1.png)  
+![リーンスタートアップ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Strategy/lean_startup_2.png)  
 
 
 

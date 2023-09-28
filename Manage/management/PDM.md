@@ -27,8 +27,8 @@
 
 
 
-![PDM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PDM_1.png)
-![PDM](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PDM_2.png)
+![PDM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PDM_1.png)
+![PDM](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PDM_2.png)
 
-![PDM_arrow](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PDM_arrow_1.png)
-![PDM_arrow](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/PDM_arrow_2.png)
+![PDM_arrow](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PDM_arrow_1.png)
+![PDM_arrow](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/PDM_arrow_2.png)

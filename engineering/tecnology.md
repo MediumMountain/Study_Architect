@@ -44,8 +44,8 @@ Society5.0は、サイバー空間（仮想空間）とフィジカル空間（�
 
 https://www8.cao.go.jp/cstp/society5_0/index.html
 
-![Society5.0](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/tec/Society5.png)  
-![Society5.0](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/tec/CPS.png)  
+![Society5.0](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/tec/Society5.png)  
+![Society5.0](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/tec/CPS.png)  
 
 
 e-Gov

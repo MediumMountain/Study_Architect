@@ -38,13 +38,13 @@
 
 
 
-![Software maintainability](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_1.png)  
-![Software maintainability](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_2.png)  
+![Software maintainability](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_1.png)  
+![Software maintainability](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Software_maintainability_2.png)  
 
 
 
-![分析の図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_1.png)  
-![分析の図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_2.png)  
+![分析の図](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_1.png)  
+![分析の図](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/software_quality_analysis_diagram_2.png)  
 
 
 
@@ -60,7 +60,7 @@ https://kikakurui.com/x2/X25010-2013-01.html
 https://zenn.dev/dove/articles/ed0046f46ad9f4  
 
 
-![JIS X 25010:2013](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/JISX25010_2013.png)  
+![JIS X 25010:2013](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/JISX25010_2013.png)  
 
 
 

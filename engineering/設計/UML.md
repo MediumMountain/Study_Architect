@@ -28,7 +28,7 @@
     - 現実のビジネスプロセスで生じる並行処理が表現できる
 
 
-![アクティビティ図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/UML/Activity.png)  
+![アクティビティ図](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/UML/Activity.png)  
 
 
 
@@ -76,4 +76,4 @@ Data Flow Diagramの略。構造化分析手法の一つで、分析対象とな
 - UMLの中でもシステムの振る舞いを表現する図で、システムに要求される機能を、ユーザの視点から示した図です。
 - ユースケース図を有効に活用することにより、システムの全体像を開発者とユーザが一緒に評価しやすくなる利点があります。
 
-![ユースケース図](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/engineering/UML/UseCase.png)  
+![ユースケース図](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/UML/UseCase.png)  

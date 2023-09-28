@@ -51,8 +51,8 @@ https://www.tmj.jp/column/column_9072/
 
 ### インシデント対応
 
-![インシデント対応](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/incident_1.png)  
-![インシデント対応](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/incident_2.png)  
+![インシデント対応](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/incident_1.png)  
+![インシデント対応](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/incident_2.png)  
 
 
 
@@ -67,8 +67,8 @@ https://www.tmj.jp/column/column_9072/
 - インシデント発生時の回復策のことで、完全な解決策がまだ存在しないインシデントや問題の悪影響を低減または排除するために策定されます。
 - 問題やエラーコードごとのワークアラウンドを用意することで、業務の停止時間を最小限に抑えることができます。
 
-    ![ワークアラウンド](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Workaround_1.png)  
-    ![ワークアラウンド](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Workaround_2.png)  
+    ![ワークアラウンド](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Workaround_1.png)  
+    ![ワークアラウンド](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Workaround_2.png)  
 
 
 
@@ -101,7 +101,7 @@ https://www.tmj.jp/column/column_9072/
 
 ## クラウドサービス
 
-![クラウドサービス](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/cloud_service.png)
+![クラウドサービス](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/cloud_service.png)
 
 
 ## サービス・ポートフォリオ
@@ -109,9 +109,9 @@ https://www.tmj.jp/column/column_9072/
 - サービス・ポートフォリオ内のサービスは、サービス・ライフサイクル上の位置に応じ、"検討中か開発中"サービスのリストである「サービス・パイプライン」、"稼働中か展開可能"サービスのリストである「サービス・カタログ」、"廃止済み"サービスのリストである「廃止済みサービス」に分けて管理されています。
 
 
-    ![サービス・ポートフォリオ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Service_portfolio.png)  
-    ![サービス・ポートフォリオ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Service_portfolio_1.png)  
-    ![サービス・ポートフォリオ](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Service_portfolio_2.png)  
+    ![サービス・ポートフォリオ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Service_portfolio.png)  
+    ![サービス・ポートフォリオ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Service_portfolio_1.png)  
+    ![サービス・ポートフォリオ](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Service_portfolio_2.png)  
 
 
 
@@ -276,8 +276,8 @@ https://www.kaonavi.jp/dictionary/kpi/
 - フォロー･ザ･サン
     - 2つ以上の異なる(大陸の)拠点に配置され、中央での統括管理によって24時間365日のサービスを提供するサービスデスク。
 
-        ![サービスデスク](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/service_desk_1.png)  
-        ![サービスデスク](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/service_desk_2.png)  
+        ![サービスデスク](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/service_desk_1.png)  
+        ![サービスデスク](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/service_desk_2.png)  
 
 
 
@@ -327,7 +327,7 @@ ITIL v3では、ITIL v2でインシデントと分類されていた事象のう
 
 
 
-![サービスマネジメントプロセスの分類](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/Classification_of_service_Management_Processes.png)
+![サービスマネジメントプロセスの分類](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Classification_of_service_Management_Processes.png)
 
 
 #### サービスの予算業務及び会計業務プロセス
@@ -410,8 +410,8 @@ ITサービスが再開するまでの数日間、緊急的な措置として業
 - 定期的にフルバックアップを行い、次のフルバックアップまでの期間は、フルバックアップ以降に変更のあったファイル(差分)だけを記録していく方式。
 - バックアップ時間は短くて済むが、復旧は①フルバックアップの適用→②差分バックアップを適用という流れになるのでフルバックアップ方式と比較して作業時間がかかる。
 
-    ![バックアップ方式](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/backup_1.png)  
-    ![バックアップ方式](https://github.com/MediumMountain/\Study_Architect/blob/main/PICTURE/Manage/backup_2.png)  
+    ![バックアップ方式](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/backup_1.png)  
+    ![バックアップ方式](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/backup_2.png)  
 
 
 
