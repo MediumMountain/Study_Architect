@@ -11,6 +11,8 @@
 - ある特定の時点でのオブジェクトのインスタンス間の静的な構造を記述する図です。
 
 
+![オブジェクト図](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/UML/object.png)  
+
 ## 振る舞い図
 システムの振る舞いをモデルで表現する。  
 アクティビティ図，ユースケース図，シーケンス図，インタラクション概念図，コラボレーション図，タイミング図，ステートマシン図  
