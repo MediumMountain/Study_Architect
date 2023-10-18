@@ -304,7 +304,7 @@
 - 上位のデータから順に並べる方式をビッグエンディアン、下位からをリトルエンディアンという。
 
 
-![エンディアン](../../PICTURE/Processor/Endian.PNG "Endian")
+![エンディアン](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/Endian.png)
 
 
 ## 高速化
@@ -329,6 +329,14 @@ I：命令数
 D：パイプラインの深さ（命令の分割数）
 P：パイプラインのピッチ（各ステージの実行時間）
 ```
+
+
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline.png)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline2.png)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline3.png)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline4.png)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline5.png)
+
 
 ### スーパーパイプライン【super-pipeline】
 - マイクロプロセッサ（MPU/CPU）の高速化手法の一つで、命令を細かい工程に分解して並列に実行するパイプライン処理を、高度に細分化・多段化したもの。
