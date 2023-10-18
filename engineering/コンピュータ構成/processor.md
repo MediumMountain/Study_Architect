@@ -304,7 +304,7 @@
 - 上位のデータから順に並べる方式をビッグエンディアン、下位からをリトルエンディアンという。
 
 
-![エンディアン](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/Endian.png)
+![エンディアン](https://github.com/MediumMountain/Study_Architect/tree/main/PICTURE/engineering/computer_configuration/Endian.png)
 
 
 ## 高速化
