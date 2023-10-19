@@ -331,11 +331,11 @@ P：パイプラインのピッチ（各ステージの実行時間）
 ```
 
 
-![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline.png)
-![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline2.png)
-![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline3.png)
-![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline4.png)
-![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline5.png)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline.PNG)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline2.PNG)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline3.PNG)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline4.PNG)
+![パイプライン制御](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/computer_configuration/pipeline5.PNG)
 
 
 ### スーパーパイプライン【super-pipeline】
