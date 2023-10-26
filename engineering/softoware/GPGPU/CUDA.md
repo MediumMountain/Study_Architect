@@ -9,3 +9,4 @@
         - スーパーコンピューティング
         - 暗号資産のマイニング
 
+https://qiita.com/Keech/items/381495ed90e012d69f1a
