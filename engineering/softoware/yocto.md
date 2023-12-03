@@ -1,0 +1,1 @@
+https://www.windriver.com/japan/products/linux/basic/yocto
