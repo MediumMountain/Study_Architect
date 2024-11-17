@@ -63,14 +63,3 @@
 
 
 
-### 仮想記憶
-- 磁気ディスク装置などの補助記憶装置を使用して、主記憶の見掛け上の容量を増加させる仕組み
-- 現在実行中のプログラムで使う部分を主記憶に、優先度の低い部分を補助記憶装置（仮想記憶）に退避させ、プログラムの実行に合わせて主記憶と仮想記憶の間でデータの入れ替えを行うことで、主記憶の実容量で扱えるよりも大きな、または多くのプログラムを同時に展開できるようにしている。
-
-- 主記憶からページアウトされたページを格納する。
-- 仮想記憶は主記憶のバックアップではない。
-
-
-![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_1.png)
-![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_2.png)
-![仮想記憶](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/engineering/virtual_memory_3.png)
