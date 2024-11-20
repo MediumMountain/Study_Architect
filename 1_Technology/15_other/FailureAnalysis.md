@@ -28,3 +28,7 @@
 
 ## EDER(Early Detection and Early Resolution)
 - EDERとは､いち早く市場品質問題を発見し､直ちに問題を解決し、速やかに改良・改善の結果をお客様にフィードバックすること
+
+
+## HAZOP(Hazard and Operability Study)  
+- システムやソフトウェアの振舞いをガイドワードを用いて分析して、システムやソフトウェアが意図する振舞いから逸脱するケースを明らかにする
