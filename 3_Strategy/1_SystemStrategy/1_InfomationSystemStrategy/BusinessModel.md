@@ -5,6 +5,9 @@
 - 社会環境や情報技術の変化に素早く対応できるよう「全体最適」の観点から業務やシステムを改善するＦＷ
 
 
+![](https://github.com/MediumMountain/Study_Architect/tree/main/PICTURE/Strategy/EA.png)
+
+
 ### 政策・業務参照モデル（ＢＲＭ）
 組織内で行われている業務を体系的に整理するモデル
 
