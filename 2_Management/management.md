@@ -133,6 +133,7 @@ https://goworkship.com/magazine/pm-wbs-ng/
 
 ## プロジェク卜・スコープ・マネジメント
 - プロジェクトの遂行に必要な作業を過不足なく含め、プロジェクトを成功させることを目的とした管理プロセスで、以下の作業プロセスが含まれます。
+
 1. スコープマネジメント計画
 1. 要求事項収集
 1. スコープ(実施範囲)定義
@@ -144,7 +145,9 @@ https://goworkship.com/magazine/pm-wbs-ng/
 ![プロジェク卜・スコープ・マネジメント](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/Project_scope_management_2.png)
 
 
-
+### プロジェクトコストマネジメント
+- PJが取り組むニーズを満足させることを目的とする管理プロセス
+- 品質の計画、品質保証の実施、品質コントロールの実施などのプロセスが含まれる
 
 
 
@@ -215,23 +218,6 @@ https://goworkship.com/magazine/pm-wbs-ng/
 - 一定時間内に数多くの問題を処理させることによって，問題の関連性，緊急性，重要性などに対する総合的判断力を高める技法
 
 
-# RACIチャート
-- 責任分担表(RAM)の一種で、2次元の表の各軸に要員名と作業を設定し、それぞれの要員が担う役割および負う責任を作業別に一覧にしたもの。
-- プロジェクト内での責任を明確化するとともに作業が適切に割り振られる手助けをする。
-
-1. R（Responsible）
-    - 実行責任
-1. A（Accountable）
-    - 説明責任
-1. C（Consulted）
-    - 相談対応
-1. I（Informed）
-    - 報告先、情報提供
-
-
-
-![RACI](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/RACI_1.png)
-![RACI](https://github.com/MediumMountain/Study_Architect/blob/main/PICTURE/Manage/RACI_2.png)
 
 
 
